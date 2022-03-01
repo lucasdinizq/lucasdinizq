@@ -1,4 +1,4 @@
-### Olá eu sou Lucas Diniz 👋
+ ### Olá eu sou Lucas Diniz
 
 - 🔭 Busco meu primeiro emprego de programador Junior
 - 🌱 Estudando: Html Css e Javascript
